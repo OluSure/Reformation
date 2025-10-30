@@ -16,21 +16,21 @@ const part = () => {
         <p className="text-center font-bold text-lg mt-5">New</p>
       </div>
             <div>
-        <img src="./src/assets/1113.png"
+        <img src="src/assets/1113.png"
         className="h-100 w-80 lg:w-130 md:w-100 my-5"/>
                 <p className="text-center font-bold text-lg mt-5">Shoes</p>
       </div>
 
               <div>
 
-        <img src="./src/assets/1119.png"
+        <img src="src/assets/1119.png"
         className="h-100 w-80 lg:w-130 md:w-100 my-5"/>
                 <p className="text-center font-bold text-lg mt-5">Date Night</p>
       </div>
 
               <div>
 
-        <img src="./src/assets/1114.png"
+        <img src="src/assets/1114.png"
         className="h-100 w-80 lg:w-130 md:w-100 my-5"/>
                 <p className="text-center font-bold text-lg mt-5">Bestsellers</p>
       </div>
